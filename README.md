@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This repo contains all the sources for offline work with the [bootstrap](http://getbootstrap.com/) template [jumbotron](http://getbootstrap.com/examples/jumbotron/).
 
 # Project Goals
 
